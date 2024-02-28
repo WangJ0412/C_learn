@@ -1,0 +1,4 @@
+﻿  指针.c
+E:\17-C_code\c\数组\Project1\指针.c(53,18): error C2057: 应输入常量表达式
+E:\17-C_code\c\数组\Project1\指针.c(53,21): error C2466: 不能分配常量大小为 0 的数组
+E:\17-C_code\c\数组\Project1\指针.c(53,14): error C2133: “ptr”: 未知的大小
